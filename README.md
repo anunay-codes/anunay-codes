@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Anunay (Ani) 👋
 
-<!--
-**anunay-codes/anunay-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm just a student who likes building things and figuring out how they work.
 
-Here are some ideas to get you started:
+Right now I'm focused on learning software development and AI,
+and trying to build projects that actually solve real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I'm working on
+
+* Building my AI companion
+* Learning backend development
+* Improving my problem solving
+* Exploring automation and AI tools
+
+---
+
+## Tech I use
+
+* Python
+* JavaScript (learning)
+* Git & GitHub
+* VS Code
+* My brain and a lot of chai ☕
+
+---
+
+## A bit about me
+
+I'm from India.
+
+I like tech, especially AI and automation stuff.
+
+I'm not a genius, just consistent.
+
+I learn, break things, fix them and learn again.
+
+Still a long way to go.
+
+---
+
+## Let's connect
+
+Open to collaborating, learning together and building cool stuff.
+
+If you have ideas or projects, feel free to reach out!
