@@ -46,3 +46,4 @@ Open to collaborating, learning together and building cool stuff.
 
 If you have ideas or projects, feel free to reach out!
 I'm learning how to use Git locally!
+I'm experimenting with Git branches!
