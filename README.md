@@ -1,4 +1,4 @@
-# Hi, I'm Anunay (Ani) 👋
+# Hi, I'm Anunay (Anii) 👋
 
 I'm just a student who likes building things and figuring out how they work.
 
